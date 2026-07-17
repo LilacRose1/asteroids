@@ -44,3 +44,4 @@ python main.py
 ## Credit
 
 Built while following the [Boot.dev](https://www.boot.dev) "Build a Video Game" guided project.
+Used Claude to help create this README
